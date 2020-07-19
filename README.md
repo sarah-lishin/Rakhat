@@ -12,7 +12,7 @@ We suggest these machines are used in tandem on a local, host-only network for t
 
 ## Installation
 
-Download the Rakhat file, and extract to your VM folder.
+### Download the Rakhat file, and extract to your VM folder.
 
 *Please note these machines were designed on VMWare and may not function properly on VirtualBox*
 
@@ -35,4 +35,9 @@ Windows Users:
 Repeat these instructions with both machines. 
 
 
+### Add IP's to /etc/hosts
 
+Add the IP's that you discover in your recon to the /etc/hosts files on the opposite machines:
+ - Add these once you have access to the /etc/hosts folder
+ - To Blake-Sploitable, add Corey's IP
+ - To Corey, add Blake-Sploitables IP
