@@ -1,6 +1,6 @@
-# [Rakhat](https://rb.gy/f5vzeo) 
+# Rakhat
 
-*Click to Download ^*
+*[Click here to Download](https://rb.gy/f5vzeo)*
 
 
 ## Overview
