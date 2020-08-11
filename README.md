@@ -42,4 +42,4 @@ Repeat these instructions with both machines.
 Add the IP's that you discover in your recon to the /etc/hosts files on the opposite machines:
  - Add these once you have access to the /etc/hosts folder
  - To Blake-Sploitable, add Corey's IP
- - To Corey, add Blake-Sploitables IP
+ - To Corey, add Blake-Sploitable's IP
